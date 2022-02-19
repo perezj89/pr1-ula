@@ -55,6 +55,7 @@ typedef struct{
 
 void imprimir(char *);
 void imprimirColor(char *, char *, char *);
+void imprimirColor2(int, int, char *);
 void imprimirEntero(Entero);
 void imprimirCaracter(Caracter);
 void imprimirCadena(Cadena);
