@@ -60,6 +60,7 @@ void imprimirEntero(Entero);
 void imprimirCaracter(Caracter);
 void imprimirCadena(Cadena);
 void reproducirAudio(char *);
+void detenerAudio(char *);
 void reproducirAudioInterno(char *);
 void ejecutar(char *);
 void esperar(Entero);
