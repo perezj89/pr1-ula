@@ -1,8 +1,6 @@
 Programación 1
 ==============
 
---------------
-
 Estilo de código
 ----------------
 
@@ -130,7 +128,6 @@ Cabecera del usuario:
 .. code:: c
 
    # include "nombre_de_archivo.h" 
-
 
 Funciones
 ~~~~~~~~~
@@ -616,7 +613,6 @@ Ejemplo de tipos de archivos
 -  ``lib_ejemplo.so o lib_ejemplo.dll`` biblioteca dinámica (GNU/Linux y
    Windows respectivamente)
 
-
 Referencias
 ~~~~~~~~~~~
 
@@ -625,3 +621,12 @@ Referencias
 -  `https://github.com/MaJerle/c-code-style <https://github.com/MaJerle/c-code-style>`__
 
 -  `https://docs.readthedocs.io/en/stable/tutorial/ <https://docs.readthedocs.io/en/stable/tutorial/>`__
+
+Créditos
+~~~~~~~~
+
+El estilo de código fue adaptado por:
+
+-  `Jesús Peréz <https://github.com/perezj89>`__
+-  `Alejandro Mujica <https://github.com/R3mmurd>`__
+-  `José Castro <https://github.com/jose6alejandro>`__
