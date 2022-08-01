@@ -1,6 +1,6 @@
 
 # <center>Programación 1</center>
------
+
 
 ## Estilo de código 
 
@@ -520,3 +520,13 @@ Use el estilo **snake_case** para los nombres de los archivos, esto es cuando se
 - https://github.com/MaJerle/c-code-style
 
 - https://docs.readthedocs.io/en/stable/tutorial/
+
+
+### Créditos
+
+El estilo de código fue adaptado por: 
+
++ [Jesús Peréz](https://github.com/perezj89) 
++ [Alejandro Mujica](https://github.com/R3mmurd) 
++ [José Castro](https://github.com/jose6alejandro)
+
