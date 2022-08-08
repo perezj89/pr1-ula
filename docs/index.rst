@@ -1,4 +1,4 @@
-Programación 1
+PR1-ULA
 ==============
 
 Estilo de código
@@ -617,16 +617,11 @@ Referencias
 ~~~~~~~~~~~
 
 -  `https://cs50.readthedocs.io/style/c/ <https://cs50.readthedocs.io/style/c/>`__
-
 -  `https://github.com/MaJerle/c-code-style <https://github.com/MaJerle/c-code-style>`__
-
--  `https://docs.readthedocs.io/en/stable/tutorial/ <https://docs.readthedocs.io/en/stable/tutorial/>`__
 
 Créditos
 ~~~~~~~~
 
-El estilo de código fue adaptado por:
-
--  `Jesús Peréz <https://github.com/perezj89>`__
+-  `Jesús Peréz <http://www.webdelprofesor.ula.ve/ingenieria/jesuspangulo/principal/`__
 -  `Alejandro Mujica <https://github.com/R3mmurd>`__
 -  `José Castro <https://github.com/jose6alejandro>`__
