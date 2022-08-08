@@ -622,6 +622,6 @@ Referencias
 Créditos
 ~~~~~~~~
 
--  `Jesús Peréz <http://www.webdelprofesor.ula.ve/ingenieria/jesuspangulo/principal/`__
+-  `Jesús Peréz <http://www.webdelprofesor.ula.ve/ingenieria/jesuspangulo/principal/>`__
 -  `Alejandro Mujica <https://github.com/R3mmurd>`__
 -  `José Castro <https://github.com/jose6alejandro>`__
