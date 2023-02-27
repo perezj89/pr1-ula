@@ -30,9 +30,9 @@ int main()
 {
     int buscar_numero = 6;
 
-	for (int i = 0; i < 20; i++)		    
+    for (int i = 0; i < 20; i++)		    
     {
-   	if (i == buscar_numero)
+        if (i == buscar_numero)
     	{
         	printf("Encontrado");
     	}     
